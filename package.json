@@ -1,0 +1,27 @@
+{
+  "name": "softlink",
+  "version": "1.0.0",
+  "description": "softlinke users report",
+  "main": "index.js",
+  "scripts": {
+    "test": "testapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAli70x/softlink_report.git"
+  },
+  "keywords": [
+    "safelink",
+    "report"
+  ],
+  "author": "Ahmed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedAli70x/softlink_report/issues"
+  },
+  "homepage": "https://github.com/AhmedAli70x/softlink_report#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-appwrite": "^11.1.1"
+  }
+}

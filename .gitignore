@@ -1,0 +1,9 @@
+
+
+# local env files
+.env*.local
+env.local
+
+report.js
+test.js
+node_modules
