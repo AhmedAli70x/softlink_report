@@ -6,4 +6,6 @@ env.local
 
 report.js
 test.js
-node_modules
+
+# Ignore node_modules folder
+node_modules/
